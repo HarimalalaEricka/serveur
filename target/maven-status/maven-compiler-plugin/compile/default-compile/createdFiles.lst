@@ -1,0 +1,7 @@
+com\example\serveur\controller\ServeurController.class
+com\example\serveur\ServeurApplication.class
+com\example\serveur\service\MessageService.class
+com\example\serveur\controller\MessageController.class
+com\example\serveur\model\Serveur.class
+com\example\serveur\repository\MessageRepository.class
+com\example\serveur\model\Message.class
